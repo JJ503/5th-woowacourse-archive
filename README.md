@@ -76,13 +76,13 @@
 
 | 미션 | 단계 | 레파지토리 | PR 바로가기 |
 | --- | --- | --- | --- |
-| 웹 자동차 경주 | 1단계 | https://github.com/JJ503/jwp-racingcar/tree/step1 | [PR 바로가기](https://github.com/woowacourse/jwp-racingcar/pull/69) |
-|  | 2단계 | https://github.com/JJ503/jwp-racingcar/tree/step2 | [PR 바로가기](https://github.com/woowacourse/jwp-racingcar/pull/183) |
-| 쇼핑 장바구니 | 1단계 | https://github.com/JJ503/jwp-shopping-cart/tree/step1 | [PR 바로가기](https://github.com/woowacourse/jwp-shopping-cart/pull/237) |
-|  | 2단계 | https://github.com/JJ503/jwp-shopping-cart/tree/step2 | [PR 바로가기](https://github.com/woowacourse/jwp-shopping-cart/pull/352) |
-| 지하철 | 1단계 | https://github.com/JJ503/jwp-subway-path/tree/step1 | [PR 바로가기](https://github.com/woowacourse/jwp-subway-path/pull/80) |
-|  | 2단계 | https://github.com/JJ503/jwp-subway-path/tree/step2 | [PR 바로가기](https://github.com/woowacourse/jwp-subway-path/pull/195) |
-| 쇼핑 주문 (협업) | 1, 2단계 | https://github.com/JJ503/jwp-shopping-order/tree/step1 | [PR 바로가기](https://github.com/woowacourse/jwp-shopping-order/pull/93) |
+| 웹 자동차 경주 | 1단계 | [jwp-racingcar/step1](https://github.com/JJ503/jwp-racingcar/tree/step1) | [PR 바로가기](https://github.com/woowacourse/jwp-racingcar/pull/69) |
+|  | 2단계 | [jwp-racingcar/step2](https://github.com/JJ503/jwp-racingcar/tree/step2) | [PR 바로가기](https://github.com/woowacourse/jwp-racingcar/pull/183) |
+| 쇼핑 장바구니 | 1단계 | [jwp-shopping-cart/step1](https://github.com/JJ503/jwp-shopping-cart/tree/step1) | [PR 바로가기](https://github.com/woowacourse/jwp-shopping-cart/pull/237) |
+|  | 2단계 | [jwp-shopping-cart/step2](https://github.com/JJ503/jwp-shopping-cart/tree/step2) | [PR 바로가기](https://github.com/woowacourse/jwp-shopping-cart/pull/352) |
+| 지하철 | 1단계 | [jwp-subway-path/step1](https://github.com/JJ503/jwp-subway-path/tree/step1) | [PR 바로가기](https://github.com/woowacourse/jwp-subway-path/pull/80) |
+|  | 2단계 | [jwp-subway-path/step2](https://github.com/JJ503/jwp-subway-path/tree/step2) | [PR 바로가기](https://github.com/woowacourse/jwp-subway-path/pull/195) |
+| 쇼핑 주문 (협업) | 1, 2단계 | [jwp-shopping-order/step1,2](https://github.com/JJ503/jwp-shopping-order/tree/step1) | [PR 바로가기](https://github.com/woowacourse/jwp-shopping-order/pull/93) |
 
 <br>
 
